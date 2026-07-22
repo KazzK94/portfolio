@@ -67,13 +67,17 @@ export default [
 			en: "SMOL"
 		},
 		description: {
-			es: "Un acortador de URLs con rastreo de visitas. La lógica está separada en Front-End (con Astro) y Back-End (con NodeJS + Express).",
-			en: "A URL shortener that also tracks visits. The logic is separated into the Front-End (with Astro) and the Back-End (with NodeJS + Express)."
+			es: "Un acortador de URLs con rastreo de visitas. La lógica está separada en Front-End (con Astro y React) y Back-End (con NodeJS + Express).",
+			en: "A URL shortener that also tracks visits. The logic is separated into the Front-End (with Astro and React) and the Back-End (with NodeJS + Express)."
 		},
 		technologies: [
 			{
 				name: "Astro",
 				icon: AstroIcon
+			},
+			{
+				name: "React",
+				icon: ReactIcon,
 			},
 			{
 				name: "CSS",

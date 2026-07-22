@@ -65,10 +65,6 @@ export default [
 		icon: DatabaseIcon
 	},
 	{
-		name: "PostgreSQL",
-		icon: DatabaseIcon
-	},
-	{
 		name: "MongoDB",
 		icon: MongoDBIcon
 	},
